@@ -1,7 +1,5 @@
 ![logo](https://github.com/Pinkisingh13/Pinkisingh13/blob/main/Copy%20of%20Flutter%20Developer.png)
 
-<h1 align="center">Hi 👋, I'm Pinki Singh</h1>
-<h3 align="center">A passionate flutter developer from india</h3>
 <br></br>
 
 - 🔭 I'm currently working on **https://github.com/Pinkisingh13/E-Commerce-App**
