@@ -2,6 +2,25 @@
 
 <br></br>
 
+<h2>👋 Hello, I'm Pinki Singh!</h2>
+
+<h3>🚀 Skills:</h3>
+Java<br>
+JavaScript<br>
+CSS<br>
+HTML<br>
+Flutter<br>
+Bootstrap<br>
+GetX<br>
+
+<h3>📅 Experience:</h3>
+
+Started my programming journey 1 year ago with Java at Apna College(Alpha course).
+Explored web development,from apna college(Delta course) creating small projects along the way.
+Embraced Flutter development 3 months ago and crafted two small yet impactful projects, which you can explore in my repository.
+🌱 Always eager to learn and explore new technologies. Passionate about creating solutions that make a difference
+<br>
+
 - 🔭 I'm currently working on **https://github.com/Pinkisingh13/E-Commerce-App**
 - 👨‍💻 All of my projects are available at [https://github.com/Pinkisingh13?tab=repositories](https://github.com/Pinkisingh13?tab=repositories)
 - 📝 I regularly write articles on [https://medium.com/@web.pinkisingh](https://medium.com/@web.pinkisingh)
