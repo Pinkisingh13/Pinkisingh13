@@ -2,7 +2,7 @@
 
 <br></br>
 
-<h2>👋 Hello, I'm Pinki Singh!</h2>
+<h2>👋 Hello, I'm Pinki Singh!</h2> 
 
 <h3>🚀 Skills:</h3>
 Java<br>
