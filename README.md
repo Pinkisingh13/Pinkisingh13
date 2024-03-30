@@ -17,7 +17,7 @@ GetX<br>
 
 Started my programming journey 1 year ago with Java at Apna College(Alpha course).
 Explored web development,from apna college(Delta course) creating small projects along the way.
-Embraced Flutter development 3 months ago and crafted two small yet impactful projects, which you can explore in my repository.
+Embraced Flutter development 4 months ago and crafted two small yet impactful projects, which you can explore in my repository.
 🌱 Always eager to learn and explore new technologies. Passionate about creating solutions that make a difference
 <br>
 
