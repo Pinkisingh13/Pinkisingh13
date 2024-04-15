@@ -21,7 +21,7 @@ Embraced Flutter development 4 months ago and crafted two small yet impactful pr
 🌱 Always eager to learn and explore new technologies. Passionate about creating solutions that make a difference
 <br>
 
-- 🔭 I'm currently working on **https://github.com/Pinkisingh13/E-Commerce-App**
+- 🔭 I'm currently working on **https://github.com/Pinkisingh13/foodhub**
 - 👨‍💻 All of my projects are available at [https://github.com/Pinkisingh13?tab=repositories](https://github.com/Pinkisingh13?tab=repositories)
 - 📝 I regularly write articles on [https://medium.com/@web.pinkisingh](https://medium.com/@web.pinkisingh)
 
