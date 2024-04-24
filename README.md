@@ -27,7 +27,7 @@ Embraced Flutter development 4 months ago and crafted two small yet impactful pr
 
 - 📫 How to reach me **web.pinkisingh@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/b7UuC](https://t.ly/b7UuC)
+- 📄 Know about my experiences [resume](https://github.com/Pinkisingh13/Pinkisingh13/blob/main/PinkiSingh_Resume.pdf)
 
  <hr width="80%">
 <h3 align="left">Connect with me:</h3>
