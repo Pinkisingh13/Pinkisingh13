@@ -17,17 +17,16 @@ GetX<br>
 
 Started my programming journey 1 year ago with Java at Apna College(Alpha course).
 Explored web development,from apna college(Delta course) creating small projects along the way.
-Embraced Flutter development 4 months ago and crafted two small yet impactful projects, which you can explore in my repository.
+Embraced Flutter development 7 months ago and crafted some impactful projects, which you can explore in my repository.
 🌱 Always eager to learn and explore new technologies. Passionate about creating solutions that make a difference
 <br>
 
-- 🔭 I'm currently working on **https://github.com/Pinkisingh13/foodhub**
 - 👨‍💻 All of my projects are available at [https://github.com/Pinkisingh13?tab=repositories](https://github.com/Pinkisingh13?tab=repositories)
 - 📝 I regularly write articles on [https://medium.com/@web.pinkisingh](https://medium.com/@web.pinkisingh)
 
 - 📫 How to reach me **web.pinkisingh@gmail.com**
 
-- 📄 Know about my experiences [resume](https://github.com/Pinkisingh13/Pinkisingh13/blob/main/PinkiSingh_Resume.pdf)
+- 📄 Know about my experiences [resume](https://github.com/Pinkisingh13/Pinkisingh13/blob/main/PinkiSinghResume.pdf)
 
  <hr width="80%">
 <h3 align="left">Connect with me:</h3>
