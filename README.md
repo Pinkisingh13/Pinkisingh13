@@ -2,7 +2,9 @@
 
 <br></br>
 
-<h2>👋 Hello, I'm Pinki Singh!</h2> 
+<h2>👋 Hello, I'm Pinki Singh!</h2>
+
+![](https://komarev.com/ghpvc/?username=Pinkisingh13)
 
 🌟 Flutter Developer | Kotlin Enthusiast | Lifelong Learner
 🚀 Building apps that make a difference
